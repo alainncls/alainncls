@@ -1,6 +1,6 @@
 ### Hello, world 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Blockchain technologies
-- 📫 How to reach me: [my website](https://alainnicolas.fr)
+🧑‍💻 I'm a fullstack tech lead @ [Talan Labs](https://github.com/TalanLabs)  
+⛓️ I’m currently working on blockchain technologies  
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/alainnicolas/)  
+📰 My [blog & website](https://alainnicolas.fr)
