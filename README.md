@@ -7,11 +7,11 @@
 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/alainnicolas/) & [Twitter](https://twitter.com/Alain_Ncls/)  
 📰 Take a look at my [blog & website](https://alainnicolas.fr) (in French)
   
-<br><br>
+<br>
   
 ![AlainNcls' GitHub stats](https://github-readme-stats.vercel.app/api?username=alainncls&count_private=true&show_icons=true&theme=dark)
   
-<br><br>
+<br>
   
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=alainncls.alainncls&left_color=grey&right_color=green)
 </div>
