@@ -9,8 +9,4 @@
 <br>
   
 ![AlainNcls' GitHub stats](https://github-readme-stats.vercel.app/api?username=alainncls&count_private=true&show_icons=true&theme=dark)
-  
-<br>
-  
-![Visitors since 12/23/2021](https://visitor-badge.glitch.me/badge?page_id=alainncls.alainncls&left_color=grey&right_color=green)
 </div>
