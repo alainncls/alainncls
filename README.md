@@ -8,5 +8,16 @@
   
 <br>
   
-![AlainNcls' GitHub stats](https://github-readme-stats.vercel.app/api?username=alainncls&count_private=true&show_icons=true&theme=dark)
+<picture>
+  <source
+    srcset="https://github-readme-stats-psi-two-84.vercel.app/api?username=alainncls&show=reviews,prs_merged,prs_merged_percentage&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-psi-two-84.vercel.app/api?username=alainncls&show=reviews,prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-psi-two-84.vercel.app/api?username=alainncls&show=reviews,prs_merged,prs_merged_percentage" />
+</picture>
+
 </div>
