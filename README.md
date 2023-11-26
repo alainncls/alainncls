@@ -7,17 +7,8 @@
 📰 Take a look at my [blog & website](https://alainnicolas.fr) (in French)
   
 <br>
-  
-<picture>
-  <source
-    srcset="https://github-readme-stats-psi-two-84.vercel.app/api?username=alainncls&show=reviews,prs_merged,prs_merged_percentage&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-psi-two-84.vercel.app/api?username=alainncls&show=reviews,prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-psi-two-84.vercel.app/api?username=alainncls&show=reviews,prs_merged,prs_merged_percentage" />
-</picture>
+
+[![Alain's GitHub stats-Dark](https://github-readme-stats-psi-two-84.vercel.app/api?username=alainncls&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&theme=dark#gh-dark-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only](https://github-readme-stats-psi-two-84.vercel.app/api?username=alainncls&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&theme=dark#gh-dark-mode-only))
+[![Alain's GitHub stats-Light](https://github-readme-stats-psi-two-84.vercel.app/api?username=alainncls&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&theme=default#gh-light-mode-only)](https://github-readme-stats-psi-two-84.vercel.app/api?username=alainncls&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&theme=default#gh-light-mode-only)
 
 </div>
