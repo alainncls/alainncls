@@ -3,8 +3,8 @@
 ### Hello, world 👋
 
 🧑‍💻 I'm a fullstack blockchain developer @ [Consensys](https://github.com/Consensys)  
-📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/alainnicolas/) & [Twitter](https://twitter.com/Alain_Ncls/)  
-📰 Take a look at my blog & website in [French 🇫🇷](https://alainnicolas.fr/fr) and in [English 🇬🇧](https://alainnicolas.fr/en)
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/alainnicolas/), [Twitter](https://twitter.com/Alain_Ncls/)  and [Lens](https://hey.xyz/u/alainnicolas)  
+📰 I also have a blog & website in [French 🇫🇷](https://alainnicolas.fr/fr) and in [English 🇬🇧](https://alainnicolas.fr/en)
   
 <br>
 
