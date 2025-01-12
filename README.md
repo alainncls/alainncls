@@ -2,9 +2,10 @@
 
 ### Hello, world 👋
 
-🧑‍💻 I'm a fullstack blockchain developer @ [Consensys](https://github.com/Consensys)  
-📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/alainnicolas/), [Twitter](https://twitter.com/Alain_Ncls/)  and [Lens](https://hey.xyz/u/alainnicolas)  
-📰 I also have a blog & website in [French 🇫🇷](https://alainnicolas.fr/fr) and in [English 🇬🇧](https://alainnicolas.fr/en)
+🧑‍💻 I'm a fullstack blockchain tech lead at [Consensys](https://github.com/Consensys).  
+🤓 I mainly work on [Verax](https://github.com/Consensys/linea-attestation-registry) and [Linea](https://github.com/Consensys/linea-monorepo).  
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/alainnicolas/) and [X](https://x.com/Alain_Ncls/).  
+📰 I also have a [blog & website](https://alainnicolas.fr/en).
   
 <br>
 
