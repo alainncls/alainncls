@@ -19,6 +19,6 @@ TypeScript • Solidity • Nest • React • Next.js • viem • wagmi
 
 <br>
 
-![Alain's GitHub stats](https://github-stats-extended.vercel.app/api?username=alainncls&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&rank_icon=percentile&theme=dark)
+[![Alain's GitHub stats](https://alainncls-github-stats.vercel.app/api?username=alainncls&hide=stars&show=reviews,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&rank_icon=percentile&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
